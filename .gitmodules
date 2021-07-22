@@ -1,0 +1,3 @@
+[submodule "CLIAngular"]
+	path = CLIAngular
+	url = https://github.com/aherrera05/CLIAngular.git
